@@ -1,0 +1,16 @@
+div img{
+    width: 250px;
+}
+
+*{
+    background-color: rgba(245, 167, 236, 0.872);
+
+}
+
+button{
+    width: 150px;
+    line-height: 40%;
+    font-size:x-small;
+    border-color: blueviolet;
+    color: deeppink;
+}
